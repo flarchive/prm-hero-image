@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of prm/hero-image.** Not for installation: use [Packagist](https://packagist.org/packages/prm/hero-image) or the [upstream repository](https://github.com/smmpanelscripts1/prm-hero-image).
 
-**0** versions archived · Latest: [`0.1.0`](https://github.com/flarchive/prm-hero-image/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^1.8`
+**1** versions archived · Latest: [`0.1.0`](https://github.com/flarchive/prm-hero-image/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^1.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2026-09-17 | `^1.8` | [Browse](https://github.com/flarchive/prm-hero-image/tree/archive/v0.1.0) |
 
 Catalog entry: [packages/prm-hero-image.json](https://github.com/flarchive/archive-index/blob/main/packages/prm-hero-image.json)
 
